@@ -1,7 +1,7 @@
 require('./Base');
 
 const inherits = require('util').inherits;
-const miio = require('miio');
+const miio = require('miio-nicoh88');
 
 var Accessory, PlatformAccessory, Service, Characteristic, UUIDGen;
 
